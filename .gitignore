@@ -1,0 +1,6 @@
+node_modules
+apps/frontend/node_modules
+apps/e2e
+apps/backend/node_modules
+.DS_Store
+docs
